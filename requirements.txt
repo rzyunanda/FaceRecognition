@@ -1,5 +1,5 @@
 streamlit
-opencv-python
-tensorflow==2.13
-tf-keras
+opencv-python-headless
 deepface
+tensorflow==2.13.0
+tf-keras
